@@ -1,4 +1,4 @@
-All files except BTum 4 are printed in PLA at .2 layer height and 15% infill
+All stl files except BTum 4 are printed in PLA at .2 layer height and 15% infill
 
 BTum 4 is printed out of TPU at .2 layer height and 15% infill
 
