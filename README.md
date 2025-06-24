@@ -17,7 +17,7 @@ This repository currently includes:
 | Part Name             | File Type | Print Notes           | Status   |
 |----------------------|-----------|------------------------|----------|
 | Canister             | `.stl`    | PLA 0.2mm layer        | Public   |
-| Tumbler              | `.stl`    | Most PLA 0.2mm layer   | Public   |
+| [Tumbler](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/Readme.md)             | `.stl`    | Most PLA 0.2mm layer   | Public   |
 | PowerBase ESP32      | `.stl`    | PLA 0.2mm layer        | Public   |
 | PowerBase Atom       | `.stl`    | PLA 0.2mm layer        | Public   |
 
