@@ -10,7 +10,7 @@ This repository currently includes:
 - ✅ Exploded diagrams showing part relationships
 - ✅ Licensing information for personal and educational use
 
-> ⚠️ Note: This repository does **not** include any proprietary or internal mechanisms protected under patent or intellectual property rights. Please see the [LICENSE](#license) section for more info.
+> ⚠️ Note: This repository does **not** include any proprietary or internal mechanisms protected under patent or intellectual property rights. Please see the [LICENSE](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/LICENSE) section for more info.
 
 ## 🧩 Available Parts
 
