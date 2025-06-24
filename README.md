@@ -49,16 +49,17 @@ Under the following terms:
 - 💸 **NonCommercial** – Not for commercial use
 - 🔄 **ShareAlike** – Distribute derivatives under the same license
 
-Full license text available [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Full license text available [here](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
 ## 📬 Contact & Support
 
 For technical support or feedback, please contact:
 
-📧 **support@pettutor.com**  
-Phone: 877-250-2694
-Email: PetTutor@SmartAnimalTraining.com
+📧 **PetTutor@SmartAnimalTraining.com** 
+
 🌐 [www.pettutor.com](https://smartanimaltraining.com/)
+
+Phone: 877-250-2694
 
 ---
 
