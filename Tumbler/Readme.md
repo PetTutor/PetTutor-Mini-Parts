@@ -1,9 +1,10 @@
 **Click on a part to download:**
 
-- [Base Top](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20ESP32/Base%20top.stl)
-- [Center Ring](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20ESP32/Centering%20ring.stl)
-- [28BYJ Motor Pin](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20ESP32/28BY-J%20Motor%20Pin.stl)
-- [Base V2](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20ESP32/Base%20V2.stl)
+- [BTum - 1](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20%20-%201.stl)
+- [BTum - 2](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%202.stl)
+- [BTum - 3](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%203.stl)
+- [BTum - 4](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%204.stl)
+- [BTum - ST Adapter](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%20ST%20Adapter.stl)
 
 All stl files except BTum 4 are printed in PLA at .2 layer height and 15% infill
 
