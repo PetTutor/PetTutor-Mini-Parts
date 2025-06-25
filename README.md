@@ -51,16 +51,6 @@ Under the following terms:
 
 Full license text available [here](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
-## 📬 Contact & Support
-
-For technical support or feedback, please contact:
-
-📧 **PetTutor@SmartAnimalTraining.com** 
-
-🌐 [www.pettutor.com](https://smartanimaltraining.com/)
-
-Phone: 877-250-2694
-
 ## 🖨️ 3D Printing Help
 
 If you want to print your own parts and are new to 3D printing follow these simple steps:
@@ -88,6 +78,16 @@ Clean up small holes with a drill bit if too tight.
 Refer to the exploded diagram above for part orientation.
 
 Need help? Open an issue or start a discussion on this repo.
+
+## 📬 Contact & Support
+
+For technical support or feedback, please contact:
+
+📧 **PetTutor@SmartAnimalTraining.com** 
+
+🌐 [www.pettutor.com](https://smartanimaltraining.com/)
+
+Phone: 877-250-2694
 
 
 ---
