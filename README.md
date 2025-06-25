@@ -61,10 +61,13 @@ For technical support or feedback, please contact:
 
 Phone: 877-250-2694
 
-🖨️ 3D Printing Help
-If you're planning to 3D print the components shown in the exploded view:
+## 🖨️ 3D Printing Help
+
+If you want to print your own parts and are new to 3D printing follow these simple steps:
 
 STL Files: Download all printable parts from the /stl folder.
+
+Find a friend or local library with 3D printer and ask them to aid in printing.
 
 Recommended Settings:
 
