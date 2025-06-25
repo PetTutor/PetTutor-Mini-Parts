@@ -61,6 +61,32 @@ For technical support or feedback, please contact:
 
 Phone: 877-250-2694
 
+🖨️ 3D Printing Help
+If you're planning to 3D print the components shown in the exploded view:
+
+STL Files: Download all printable parts from the /stl folder.
+
+Recommended Settings:
+
+Layer Height: 0.2 mm
+
+Infill: 15%
+
+Supports: Only for overhangs
+
+Material: PLA unless otherwise specified
+
+Assembly Tips:
+
+Test-fit parts before gluing or screwing.
+
+Clean up small holes with a drill bit if too tight.
+
+Refer to the exploded diagram above for part orientation.
+
+Need help? Open an issue or start a discussion on this repo.
+
+
 ---
 
 Thank you for supporting innovation, repairability, and pet care!
