@@ -6,3 +6,6 @@
 - [Lid](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Canister/Tum%206.1%20-%20Lid.stl)
 
 All stl files are printed in PLA at .2 Layer Height and 15% infill. 
+
+![image](https://github.com/user-attachments/assets/b1838e5a-8c53-4b97-bc66-e30fcdf4c076)
+
