@@ -7,5 +7,5 @@
 
 All stl files are printed in PLA at .2 Layer Height and 15% infill. 
 
-![image](https://github.com/user-attachments/assets/b1838e5a-8c53-4b97-bc66-e30fcdf4c076)
+![image](https://github.com/user-attachments/assets/d8c8a1a8-9b62-42f1-9c3b-481f36fc8ef7)
 
