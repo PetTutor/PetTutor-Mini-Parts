@@ -19,7 +19,7 @@ This repository currently includes:
 | [Canister](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Canister/Readme.md)             | `.stl`    | PLA 0.2mm layer        | Public   |
 | [Tumbler](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/Readme.md)             | `.stl`    | Most PLA 0.2mm layer   | Public   |
 | [PowerBase ESP32](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20ESP32/README.md)      | `.stl`    | PLA 0.2mm layer        | Public   |
-| [PowerBase Atom](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/Readme.md)       | `.stl`    | PLA 0.2mm layer        | Public   |
+| [PowerBase Atom](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/README.md)       | `.stl`    | PLA 0.2mm layer        | Public   |
 
 
 > Need a specific part? Open an issue or submit a request!
