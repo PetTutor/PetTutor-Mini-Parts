@@ -8,6 +8,7 @@
 - [N20 Motor Pin](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/N20%20Motor%20Pin.stl)
 
 All stl files are printed in PLA at .2 Layer Height and 15% infill. 
+
 Other items can be purchased through Amazon or other vendors.
 
 - [Atom](https://shop.m5stack.com/products/atom-lite-esp32-development-kit?srsltid=AfmBOorpaCo6LaSdYEo0xqwaS0408o4Nq70mW2EWUiq_U3TJ0CaQtvyv)
