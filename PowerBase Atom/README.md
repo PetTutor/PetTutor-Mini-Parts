@@ -17,5 +17,7 @@ Other items can be purchased through Amazon or other vendors.
 - [Buzzer](https://www.amazon.com/QMseller-Connector-Active-Plastic-Electronic/dp/B07VX87W5Q/ref=sr_1_2_sspa?crid=3PGXR9NJSZ1ML&dib=eyJ2IjoiMSJ9.mngVaeKPfaSjJypt80Rt_Cs2bHcnr88bma-fT_LDqLuZbQqBchicAbzb8fgQ0MIr6aQ1DqjD2rtZ9uH9NXTk5FZjlpjGM5pPuBT0tuTu8ca5d3yGqNhCLzCNc_PiyDFlZZON_daGggbWeN2LBHsiZBaH4pCZC35k4x3gP4mTOUE6cdO6K_9d3QEwIQQaURuixIQqPflwf333RoFkBTb92wWWdbipBEAD1nWqr_rWzBiyrOB4QttO7qMH0nmIBG7fwFZyuQ7UpawxXzOCNDzNZaK3Jf5MVfvq9KkOg6Oygv8.rZq3GyGFamQZGUpWsNWpN5t4dB9dQnoA65l1gw1p7DM&dib_tag=se&keywords=buzzer&qid=1750974701&sprefix=buzzer%2Caps%2C153&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 ![image](https://github.com/user-attachments/assets/d1760cc5-7ac9-406a-a391-1646f957754d)
+![image](https://github.com/user-attachments/assets/9bfdd3c7-56f1-459a-9d79-03fd8cafa7a4)
+
 
 
