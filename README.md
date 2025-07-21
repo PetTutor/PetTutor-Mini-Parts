@@ -65,7 +65,9 @@ Layer Height: 0.2 mm
 
 Infill: 15%
 
-Supports: Only for overhangs
+Supports: Non unless specified
+
+Other Print Settings: Default
 
 Material: PLA unless otherwise specified
 
