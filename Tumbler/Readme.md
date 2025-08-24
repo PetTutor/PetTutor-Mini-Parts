@@ -3,7 +3,7 @@
 - [BTum - 1](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20%20-%201.stl)
 - [BTum - 2](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%202.stl)
 - [BTum - 3](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%203.stl)
-- [BTum - 4](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%204.stl)
+- [BTum - 4 TPU](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%204.stl)
 - [BTum - 5 TPU](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%205%20TPU.stl)
 - [BTum - ST Adapter](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%20ST%20Adapter.stl)
 
