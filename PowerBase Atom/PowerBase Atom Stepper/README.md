@@ -1,11 +1,11 @@
 **Click on a part to download:**
 
-- [Base Top v5](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/Base%20top%20V5.stl)
-- [BaseV5 - 1](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/BaseV5%20-%201.stl)
-- [BaseV5 - 2](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/BaseV5%20-%202%20Clear.stl)
-- [BaseV5 - 3](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/BaseV5%20-%203.stl)
-- [Centering Ring V5](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/Centering%20ring%20V5.stl)
-- [N20 Motor Pin](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/N20%20Motor%20Pin.stl)
+- [28BY-J Motor Pin.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/28BY-J%20Motor%20Pin.stl)
+- [Base top Stepper.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/Base%20top%20Stepper.stl)
+- [BaseV5 Stepper - 1.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%201.stl)
+- [BaseV5 Stepper - 2 Clear.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%202%20Clear.stl)
+- [BaseV5 Stepper - 3.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%203.stl)
+- [Centering ring Stepper.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/Centering%20ring%20Stepper.stl)
 
 All stl files are printed in PLA at .2 Layer Height and 15% infill. 
 
