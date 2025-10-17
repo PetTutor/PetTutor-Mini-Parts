@@ -20,4 +20,5 @@ Other items can be purchased through Amazon or other vendors.
 - [2 pin dupont 30 cm](https://www.amazon.com/gp/aw/d/B0CCV3PXFP/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=506ee69713e5ad772f31c7477b954023&hsa_cr_id=0&qid=1760321211&sr=1-1-f02f01d6-adaf-4bef-9a7c-29308eff9043&ref_=sbx__sbtcd2_asin_0_title&pd_rd_w=umEob&content-id=amzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a%3Aamzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_p=e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_r=ETXXGVBPQAQSCBZZXWBG&pd_rd_wg=1hlMW&pd_rd_r=72a2d184-2b7e-40e4-94a4-52785567555c&th=1)
 
 ![image](https://github.com/user-attachments/assets/e5fd745f-782e-4a33-9b37-baa6af8fd15b)
-![image](https://github.com/user-attachments/assets/9bfdd3c7-56f1-459a-9d79-03fd8cafa7a4)
+![image](https://github.com/user-attachments/assets/b0412255-1a16-4ae2-a5c9-ce3bb097a8fb)
+
