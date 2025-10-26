@@ -1,9 +1,9 @@
 **Click on a part to download:**
 
-- [Top Case.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/28BY-J%20Motor%20Pin.stl)
-- [Bottom Case.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/Base%20top%20Stepper.stl)
-- [Button Clear.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%201.stl)
-- [Grip TPU.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%202%20Clear.stl)
+- [Top Case.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Clickers/Clicker/PTMini%20Clicker%20-%20Top%20Case%20(PLA).stl)
+- [Bottom Case.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Clickers/Clicker/PTMini%20Clicker%20-%20Bottom%20Case%20(PLA).stl)
+- [Button Clear.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Clickers/Clicker/PTMini%20Clicker%20-%20Button%20(Clear%20PLA).stl)
+- [Grip TPU.stl](http://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Clickers/Clicker/PTMini%20Clicker%20-%20Grip%20(TPU).stl)
 
 
 All stl files are printed in PLA (Unless otherwise stated) at .2 Layer Height and 15% infill. 
