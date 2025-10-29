@@ -13,3 +13,4 @@ Other items can be purchased through Amazon or other vendors.
 - [Atom](https://shop.m5stack.com/products/atom-lite-esp32-development-kit?srsltid=AfmBOorpaCo6LaSdYEo0xqwaS0408o4Nq70mW2EWUiq_U3TJ0CaQtvyv)
 - [Tailbat](https://shop.m5stack.com/products/atom-tailbat)
 
+<img width="3300" height="2550" alt="Clicker" src="https://github.com/user-attachments/assets/d4325497-7046-47c9-99ae-703bde337312" />
