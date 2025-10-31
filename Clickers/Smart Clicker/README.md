@@ -14,4 +14,5 @@ Other items can be purchased through Amazon or other vendors.
 - [Port Extension](https://shop.m5stack.com/products/atomic-portabc-extension-base)
 
 
-<img width="2550" height="3300" alt="Smart Clicker" src="https://github.com/user-attachments/assets/b141a248-3b94-42fc-a371-8bfbf55e21cf" />
+<img width="2550" height="3300" alt="Smart Clicker" src="https://github.com/user-attachments/assets/1a9b549a-21b2-4c6c-b5bd-ec7df03469a9" />
+
