@@ -7,7 +7,7 @@ Welcome to the **PetTutor Mini Parts** repository! This repo contains 3D printab
 ## Other resources and contributors to the open Pet Tutor community  
 - **[Kona Currents](https://github.com/konacurrents/konacurrents)** :Inventor of the Semantic Marker(r) and developer of advanced firmware for the Pet Tutor
 
-This repository currently includes:
+## This Pet Tutor Mini repository currently includes:
 
 - ✅ STL files for printable components (non-proprietary)
 - ✅ Exploded diagrams showing part relationships
