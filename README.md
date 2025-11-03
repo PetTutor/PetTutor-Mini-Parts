@@ -90,9 +90,8 @@ For technical support or feedback, please contact:
 
 📧 **PetTutor@SmartAnimalTraining.com** 
 
-🌐 [www.pettutor.com](https://smartanimaltraining.com/)
+🌐 [www.pettutor.biz](https://smartanimaltraining.com/)
 
-Phone: 877-250-2694
 
 
 ---
