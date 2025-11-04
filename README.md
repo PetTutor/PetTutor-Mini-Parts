@@ -81,7 +81,7 @@ Test-fit parts before gluing or screwing.
 
 Clean up small holes with a drill bit if too tight.
 
-Refer to the exploded diagram above for part orientation.
+Refer to the exploded diagrams for part orientation.
 
 Need help? Open an issue or start a discussion on this repo.
 
