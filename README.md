@@ -23,7 +23,7 @@ Welcome to the **PetTutor Mini Parts** repository! This repo contains 3D printab
 | [Tumbler](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/Readme.md)             | `.stl`    | Most PLA 0.2mm layer   | Public   |
 | [PowerBase ESP32](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20ESP32/README.md)      | `.stl`    | PLA 0.2mm layer        | Public   |
 | [PowerBase Atom](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/PowerBase%20Atom/README.md)       | `.stl`    | PLA 0.2mm layer        | Public   |
-| [Clickers](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/PowerBase%20Atom/README.md)       | `.stl`    | PLA 0.2mm layer        | Public   |
+| [Clickers](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Clickers)       | `.stl`    | PLA 0.2mm layer        | Public   |
 
 
 > Need a specific part? Open an issue or submit a request!
