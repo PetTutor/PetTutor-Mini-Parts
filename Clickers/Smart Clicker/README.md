@@ -13,7 +13,8 @@ Other items can be purchased through Amazon or other vendors.
 - [Key Button](https://shop.m5stack.com/products/mechanical-key-button-unit)
 - [Port Extension](https://shop.m5stack.com/products/atomic-portabc-extension-base)
 
+<img width="2550" height="3300" alt="Smart Clicker (1)" src="https://github.com/user-attachments/assets/fd4973a8-5572-441b-acc1-c96ed675669a" />
 
-<img width="2550" height="3300" alt="Smart Clicker" src="https://github.com/user-attachments/assets/a0b91c7b-60c3-4905-ad86-509e413669f1" />
+
 
 
