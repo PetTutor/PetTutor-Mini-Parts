@@ -1,5 +1,10 @@
 # Results of testing kibble in Pet Tutor Mini
 
+## [Test Results](https://docs.google.com/spreadsheets/d/e/2PACX-1vQd1KaqEMlKHC2c9Lk1LbxcFb_FHX_vzLPKAauXptFmlkiEasJjgRgIwaQ87ky0cLkWXTT3QA4kNtl7/pubhtml) for various kibble run through the Pet Tutor Mini
+
+
+## previous testing by Orion [Results](https://docs.google.com/spreadsheets/d/1xcsUrdL4sDvqtHj7MoL4mm_9uoodcY0e_STNOEuZV90/edit?gid=0#gid=0)
+
 | test # | Date tested | Food | # cycles tested | # Jams | # Zero dispensed | Comments | Tested by |
 |---:|---|---|---:|---:|---:|---|---|
 | 1 |  |  |  |  |  |  |  |
