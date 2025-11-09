@@ -30,7 +30,8 @@
 
 ## Build Instructions:  
 - All 3D stl files are printed in PLA at .2 Layer Height and 15% infill.
-- Cables connect ATOM to buzzer(2 pin) and stepper motor driver board(2 & 4 pin).
+- Cables connect ATOM to stepper motor driver board(2 pin & 4 pin).
+- 2 wires from buzzer are terminated with Dupont 2-pin connector. [Kit with tool and connector][tool]
 - [Wiring and assembly diagrams](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/README.md)
 - The motor pin is glued(ex. silicon glue) on the motor shaft. Note: height is critical along the shaft so mount motor and use the dispense canister assembly to push the pin down on shaft with glue
 - Advanced firmware option: This has capabilites to allow the Pet Tutor Mini to connect to both WiFi and Bluetooth. It also can run other addons via the Groove connector.
@@ -58,3 +59,4 @@
 [tu]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%205%20TPU.stl  
 [si]: https://smartanimaltraining.com/products/brush-waffer-silicone-set  
 [cn]: https://coex3d.com/products/natural-pla-175mm-1kg
+[tool]: https://www.amazon.com/Taiss-Ratcheting-Connector-Crimping-Terminal/dp/B0B11RLGDZ?th=1
