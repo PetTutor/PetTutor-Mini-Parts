@@ -2,8 +2,8 @@
 
 ## Assemblies required for a complete Pet Tutor Mini are:  
 1. Assembly Power Base Assembly (parts list below)
-2. Assembly [Canister](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Canister)
-3. Assembly [Tumbler](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Tumbler)  This is the dispenser mechanism which separates out the kibble and drops it out of the feeder
+2. Subassembly [Canister](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Canister)
+3. Subassembly [Dispense Mechanism](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Dispense%20Mechanism)  This is the dispenser mechanism which separates out the kibble and drops it out of the feeder
 
 
 ---
