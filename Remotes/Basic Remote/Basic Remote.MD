@@ -23,6 +23,6 @@ This remote provides a basic function of connecting to the feeder and provide a 
 [Atom]: https://shop.m5stack.com/products/atom-lite-esp32-development-kit?srsltid=AfmBOorpaCo6LaSdYEo0xqwaS0408o4Nq70mW2EWUiq_U3TJ0CaQtvyv  
 [tb]: https://shop.m5stack.com/products/atom-tailbat  
 [tc]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Remotes/Basic%20Remote/PTMini%20Clicker%20-%20Top%20Case%20(PLA).stl  
-[bc]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Clickers/Smart%20Clicker/Handle%20Bottom.stl 
+[bc]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Remotes/Basic%20Remote/PTMini%20Clicker%20-%20Bottom%20Case%20(PLA).stl  
 [bt]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Remotes/Basic%20Remote/PTMini%20Clicker%20-%20Button%20(Clear%20PLA).stl  
 [gp]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Remotes/Basic%20Remote/PTMini%20Clicker%20-%20Grip%20(TPU).stl
