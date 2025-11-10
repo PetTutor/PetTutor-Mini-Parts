@@ -35,7 +35,7 @@
 - [Wiring and assembly diagrams](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/README.md)
 - The motor pin is glued(ex. silicon glue) on the motor shaft. Note: height is critical along the shaft so mount motor and use the dispense canister assembly to push the pin down on shaft with glue
 - Advanced firmware option: This has capabilites to allow the Pet Tutor Mini to connect to both WiFi and Bluetooth. It also can run other addons via the Groove connector.
-- In addition to the feeder electronics module the dispenser is required and attached to the module. The dispense assembly is built from: [Canister][ca] and [Dispense Mechanism][dm] note: Dispense Mechanism fits inside the canister and that larger assemble sits on the feeder electronics module and engages the motor pin when aligned.
+- In addition to the feeder electronics module the dispenser is required and attached to the module. The food assembly is built from: [Canister][ca] and [Dispense Mechanism][dm] The Dispense Mechanism subassembly fits inside the Canister subassembly and this food assembly twists onto the PowerBase assembly.
 - The Brush Waffer(item 14) can be made from TPU however it does not perform as well over time as the silicon waffers from Pet Tutor. The wafers fit over [BTum - 2.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%202.stl)
 - Basic firmware option:  This allows the feeder to be controlled from bluetooth.
 
