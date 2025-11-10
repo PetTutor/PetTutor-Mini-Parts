@@ -14,7 +14,7 @@ This remote provides a basic function of connecting to the feeder and provide a 
 | 3       | [Top Case.stl][tc]                                | 1  | 3D  | Top Case                                                      | PLA color choice     | na        | na      |
 | 4       | [Bottom Case.stl][bc]                             | 1  | 3D  | Bottom Case                                                   | PLA color choice     | na        | na      |
 | 5       | [Button.STL][bt]                             | 1  | 3D  | Button                                                   | PLA color choice     | na        | na      |
-| 6       | [Button.STL][bt]                             | 1  | 3D  | Button                                                   | PLA color choice     | na        | na      |
+| 6       | [Grip][gp]                             | 1  | 3D  |PTMini Clicker - Grip (TPU).stl                                                   | TPU     | na        | na      |
 ---
 
 ## Build Instructions:  
@@ -24,4 +24,5 @@ This remote provides a basic function of connecting to the feeder and provide a 
 [tb]: https://shop.m5stack.com/products/atom-tailbat  
 [tc]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Clickers/Smart%20Clicker/Handle%20Top.stl  
 [bc]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Clickers/Smart%20Clicker/Handle%20Bottom.stl 
-[bt]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Remotes/Basic%20Remote/PTMini%20Clicker%20-%20Button%20(Clear%20PLA).stl
+[bt]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Remotes/Basic%20Remote/PTMini%20Clicker%20-%20Button%20(Clear%20PLA).stl  
+[gp]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Remotes/Basic%20Remote/PTMini%20Clicker%20-%20Grip%20(TPU).stl
