@@ -18,7 +18,7 @@ This remote provides a basic function of connecting to the feeder and provide a 
 ---
 
 ## Build Instructions:  
-
+- All stl files are printed in PLA (Unless otherwise stated) at .2 Layer Height and 15% infill.
 
 [Atom]: https://shop.m5stack.com/products/atom-lite-esp32-development-kit?srsltid=AfmBOorpaCo6LaSdYEo0xqwaS0408o4Nq70mW2EWUiq_U3TJ0CaQtvyv  
 [tb]: https://shop.m5stack.com/products/atom-tailbat  
