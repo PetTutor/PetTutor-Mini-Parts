@@ -3,7 +3,7 @@
 ## Assemblies required for a complete Pet Tutor Mini are:  
 1. Assembly Power Base Assembly (parts list below)
 2. Subassembly [Canister](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Canister)
-3. Subassembly [Dispense Mechanism](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Dispense%20Mechanism)  This is the dispenser mechanism which separates out the kibble and drops it out of the feeder
+3. Subassembly [Dispense Mechanism][dm]  This is the dispenser mechanism which separates out the kibble and drops it out of the feeder
 
 
 ---
@@ -35,7 +35,7 @@
 - [Wiring and assembly diagrams](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/README.md)
 - The motor pin is glued(ex. silicon glue) on the motor shaft. Note: height is critical along the shaft so mount motor and use the dispense canister assembly to push the pin down on shaft with glue
 - Advanced firmware option: This has capabilites to allow the Pet Tutor Mini to connect to both WiFi and Bluetooth. It also can run other addons via the Groove connector.
-- In addition to the feeder electronics module the dispenser is required and attached to the module. The dispense assembly is built from: [Canister](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Canister) and [Dispense Mechanism][tu] note: Dispense Mechanism fits inside the canister and that larger assemble sits on the feeder electronics module and engages the motor pin when aligned.
+- In addition to the feeder electronics module the dispenser is required and attached to the module. The dispense assembly is built from: [Canister](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Canister) and [Dispense Mechanism][dm] note: Dispense Mechanism fits inside the canister and that larger assemble sits on the feeder electronics module and engages the motor pin when aligned.
 - The Brush Waffer(item 14) can be made from TPU however it does not perform as well over time as the silicon waffers from Pet Tutor. The wafers fit over [BTum - 2.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%202.stl)
 - Basic firmware option:  This allows the feeder to be controlled from bluetooth.
 
@@ -56,7 +56,7 @@
 [ts]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/Base%20top%20Stepper.stl  
 [mp]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/28BY-J%20Motor%20Pin.stl  
 [crs]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/Centering%20ring%20Stepper.stl
-[tu]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Dispense%20Mechanism  
+[dm]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Dispense%20Mechanism  
 [si]: https://smartanimaltraining.com/products/brush-waffer-silicone-set  
 [cn]: https://coex3d.com/products/natural-pla-175mm-1kg
 [tool]: https://www.amazon.com/Taiss-Ratcheting-Connector-Crimping-Terminal/dp/B0B11RLGDZ?th=1
