@@ -1,6 +1,6 @@
 ---  
 
-## Pet Tutor Mini Basic Remote  
+## Pet Tutor Mini:  Basic Remote  
 This remote provides a basic function of connecting to the feeder and provide a simple button to trigger the feeder.  
 
 ---
@@ -9,12 +9,12 @@ This remote provides a basic function of connecting to the feeder and provide a 
 
 | Item # | Part Name/link              | Quantity | buy/3D print  | Description / Specs                          | Source / Supplier              | Unit Cost* | Total Cost* |
 |:--------:|:------------------------|:----------:|:-------:|:----------------------------------------------|:--------------------------------|-----------:|------------:|
-| 1       | [ATOM Lite ESP32 IoT Development Kit][Atom]         | 1  | buy | ATOM ESP32                                                      | M5Stack              | $7.50     | $7.50      |
-| 2       | [ATOM Battery Accessory][tb]                        | 1  | buy | EATOM TailBat - Battery Accessory for ATOM is rechargeable      | M5Stack              | $9.50     | $9.50      |
-| 3       | [Top Case.stl][tc]                                | 1  | 3D  | Top Case                                                      | PLA color choice     | na        | na      |
-| 4       | [Bottom Case.stl][bc]                             | 1  | 3D  | Bottom Case                                                   | PLA color choice     | na        | na      |
-| 5       | [Button.STL][bt]                             | 1  | 3D  | Button                                                   | PLA color choice     | na        | na      |
-| 6       | [Grip][gp]                             | 1  | 3D  |PTMini Clicker - Grip (TPU).stl                                                   | TPU     | na        | na      |
+| 1       | [ATOM Lite ESP32 IoT Development Kit][Atom]   | 1  | buy | ATOM ESP32                                                    | M5Stack              | $7.50     | $7.50      |
+| 2       | [ATOM Battery Accessory][tb]                  | 1  | buy | EATOM TailBat - Battery Accessory for ATOM is rechargeable    | M5Stack              | $9.50     | $9.50      |
+| 3       | [Top Case.stl][tc]                            | 1  | 3D  | Top Case                                                      | PLA color choice     | na        | na      |
+| 4       | [Bottom Case.stl][bc]                         | 1  | 3D  | Bottom Case                                                   | PLA color choice     | na        | na      |
+| 5       | [Button.STL][bt]                              | 1  | 3D  | Button                                                        | PLA color choice     | na        | na      |
+| 6       | [Grip][gp]                                    | 1  | 3D  |PTMini Clicker - Grip (TPU).stl                                | TPU                  | na        | na      |
 ---
 
 ## Build Instructions:  
