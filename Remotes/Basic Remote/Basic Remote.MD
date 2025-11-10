@@ -13,7 +13,8 @@ This remote provides a basic function of connecting to the feeder and provide a 
 | 2       | [ATOM Battery Accessory][tb]                        | 1  | buy | EATOM TailBat - Battery Accessory for ATOM is rechargeable      | M5Stack              | $9.50     | $9.50      |
 | 3       | [Top Case.stl][tc]                                | 1  | 3D  | Top Case                                                      | PLA color choice     | na        | na      |
 | 4       | [Bottom Case.stl][bc]                             | 1  | 3D  | Bottom Case                                                   | PLA color choice     | na        | na      |
-| 5       | [Button.STL][bt]                             | 1  | 3D  | Bottom Case                                                   | PLA color choice     | na        | na      |
+| 5       | [Button.STL][bt]                             | 1  | 3D  | Button                                                   | PLA color choice     | na        | na      |
+| 6       | [Button.STL][bt]                             | 1  | 3D  | Button                                                   | PLA color choice     | na        | na      |
 ---
 
 ## Build Instructions:  
