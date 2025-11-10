@@ -14,8 +14,8 @@
 | 2       | [BTum - 2][bt2]         | 1  | 3D | BTum 2.STL (PLA)                                                      | PLA color choice              | na     | na      |
 | 3       | [BTum - 3][bt3]         | 1  | 3D | BTum 3.STL (PLA)                                                      | PLA color choice              | na     | na      |
 | 4       | [BTum - 4][bt4]         | 1  | 3D | BTum 4.STL (TPU)                                                      | PLA color choice              | na     | na      |
-| 5       | [BTum - 5][bt5]         | 1  | 3D | BTum 5.STL (TPU)    or purchase silicone version from Pet Tutor       | TPU or silcone(buy)              | na     | na      |
-| 6       | [BTum - ST Adapter][bta]         | 1  | 3D | BTum - ST Adapter.STL (PLA) optional Small Treat Adapter     | PLA color choice              | na     | na      |
+| 5       | [BTum - ST Adapter][bta]         | 1  | 3D | BTum - ST Adapter.STL (PLA) optional Small Treat Adapter     | PLA color choice              | na     | na      |
+| 6      | Brush waffer                                      | 10 | 3D/buy  | 10 brush wafers can be printed in TPU [BTum 5.STL][bt5] or buy silicone type with better long term performance | [TPU][bta] or [silicone][si]                    | $4.00 silicone     | $40.00 [silicone set][si]       |
 
 ---
 
@@ -32,4 +32,5 @@
 [bt3]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Dispense%20Mechanism/BTum%20-%203.stl
 [bt4]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Dispense%20Mechanism/BTum%20-%204%20TPU.stl  
 [bt5]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Dispense%20Mechanism/BTum%20-%205%20TPU.stl  
-[bta]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Dispense%20Mechanism/BTum%20-%20ST%20Adapter.stl
+[bta]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Dispense%20Mechanism/BTum%20-%20ST%20Adapter.stl  
+[si]: https://smartanimaltraining.com/products/brush-waffer-silicone-set
