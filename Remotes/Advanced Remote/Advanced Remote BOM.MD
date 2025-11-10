@@ -22,7 +22,8 @@ is useful for those with limited hand mobility. This unit also offers more optio
 
 ## Build Instructions:  
 - All 3D stl files are printed in PLA at .2 Layer Height and 15% infill
-- [Wiring and assembly diagrams???](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/README.md)
+- Firmware can be downloaded to operation the Advanced Remote and connect via Bluetooth Low Energy to the feeder.  
+
 ---
 
 *Last updated: November 09, 2025*  
