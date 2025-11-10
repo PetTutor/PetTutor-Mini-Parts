@@ -1,8 +1,8 @@
 ---  
 
 ## Assemblies required for a complete Pet Tutor Mini are:  
-1. Assembly Power Base Assembly (parts list below)
-2. Subassembly [Canister][ca]
+1. Assembly Power Base Assembly (see parts list below)
+2. Subassembly [Canister][ca] This container holds the food and screws onto the Dispense Mechanism to make the Food Assembly.
 3. Subassembly [Dispense Mechanism][dm]  This is the dispenser mechanism which separates out the kibble and drops it out of the feeder
 
 
