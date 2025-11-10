@@ -1,14 +1,14 @@
 ---  
 
 ## Assemblies required for a complete Pet Tutor Mini are:  
-1. Assembly Feeder electronics module (parts list below)
+1. Assembly Power Base Assembly (parts list below)
 2. Assembly [Canister](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Canister)
 3. Assembly [Tumbler](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Tumbler)  This is the dispenser mechanism which separates out the kibble and drops it out of the feeder
 
 
 ---
 
-## Bill of Materials Mini Pet Tutor Feeder electronics module (*est costs in 2025)
+## Bill of Materials Pet Tutor Mini PowerBase Assembly (*est costs in 2025)
 
 | Item # | Part Name/link              | Quantity | buy/3D print  | Description / Specs                          | Source / Supplier              | Unit Cost* | Total Cost* |
 |:--------:|:------------------------|:----------:|:-------:|:----------------------------------------------|:--------------------------------|-----------:|------------:|
