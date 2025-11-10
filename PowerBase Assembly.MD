@@ -25,7 +25,6 @@
 | 11     | [Base top Stepper.stl][ts]                         | 1  | 3D   | Clear top holds motor and transmits led light PLA                                                                 | ex. [Coex Natural PLA][cn]  | n/a       | n/a        |
 | 12      | [28BY-J Motor Pin.stl][mp]                        | 1  | 3D   | Motor pin fits over motor shaft and drive dispenser                                                               | PLA color choice            | n/a       | n/a        |
 | 13      | [Centering ring Stepper.stl][crs]                 | 1  | 3D   | Centering ring aligns dispenser                                                                                   | PLA color choice            | n/a       | n/a        |
-| 14      | Brush waffer                                      | 10 | 3D/buy  | 10 brush wafers can be printed in TPU or buy silicone type with better long term performance | [TPU][tu] or [silicon][si]                    | $4.00 silicone     | $40.00 [silicone set][si]       |
 ---
 
 ## Build Instructions:  
@@ -36,7 +35,6 @@
 - The motor pin is glued(ex. silicon glue) on the motor shaft. Note: height is critical along the shaft so mount motor and use the dispense canister assembly to push the pin down on shaft with glue
 - Advanced firmware option: This has capabilites to allow the Pet Tutor Mini to connect to both WiFi and Bluetooth. It also can run other addons via the Groove connector.
 - In addition to the feeder electronics module the dispenser is required and attached to the module. The food assembly is built from: [Canister][ca] and [Dispense Mechanism][dm] The Dispense Mechanism subassembly fits inside the Canister subassembly and this food assembly twists onto the PowerBase assembly.
-- The Brush Waffer(item 14) can be made from TPU however it does not perform as well over time as the silicon waffers from Pet Tutor. The wafers fit over [BTum - 2.stl](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/BTum%20-%202.stl)
 - Basic firmware option:  This allows the feeder to be controlled from bluetooth.
 
 ---
