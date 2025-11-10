@@ -58,8 +58,7 @@
 [ts]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/Base%20top%20Stepper.stl  
 [mp]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/28BY-J%20Motor%20Pin.stl  
 [crs]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/Centering%20ring%20Stepper.stl
-[dm]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Dispense%20Mechanism  
-[si]: https://smartanimaltraining.com/products/brush-waffer-silicone-set  
+[dm]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Dispense%20Mechanism    
 [cn]: https://coex3d.com/products/natural-pla-175mm-1kg
 [tool]: https://www.amazon.com/Taiss-Ratcheting-Connector-Crimping-Terminal/dp/B0B11RLGDZ?th=1
 [ca]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Canister
