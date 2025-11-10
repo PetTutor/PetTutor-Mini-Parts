@@ -6,7 +6,7 @@
 
 ---
 
-## Bill of Materials Dispense Mechanism
+## Bill of Materials: Dispense Mechanism
 
 | Item # | Part Name/link              | Quantity | buy/3D print  | Description / Specs                          | Source / Supplier              | Unit Cost* | Total Cost* |
 |:--------:|:------------------------|:----------:|:-------:|:----------------------------------------------|:--------------------------------|-----------:|------------:|
