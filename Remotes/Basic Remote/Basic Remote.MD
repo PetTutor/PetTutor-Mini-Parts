@@ -4,6 +4,8 @@
 This remote provides a basic function of connecting to the feeder and provide a simple button to trigger the feeder.  
 
 ---
+<img width="3300" height="2550" alt="Clicker" src="https://github.com/user-attachments/assets/6af4ac16-ff5b-4884-85ed-ee868beed118" />
+---
 
 ## Bill of Materials: Basic Remote
 
