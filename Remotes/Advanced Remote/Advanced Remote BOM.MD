@@ -1,10 +1,13 @@
 ---  
 
 ## Pet Tutor Mini Advanced Remote  
+This remote provides additions capabilities compared to the Basic Remote. Among other things the Advanced Remote has a big button which   
+is useful for those with limited hand mobility. This unit also offers more options to attach other accessories.  
+
 
 ---
 
-## Bill of Materials Mini Pet Tutor Feeder electronics module (*est costs in 2025)
+## Bill of Materials: Advanced Remote
 
 | Item # | Part Name/link              | Quantity | buy/3D print  | Description / Specs                          | Source / Supplier              | Unit Cost* | Total Cost* |
 |:--------:|:------------------------|:----------:|:-------:|:----------------------------------------------|:--------------------------------|-----------:|------------:|
