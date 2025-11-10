@@ -13,9 +13,9 @@
 | 1       | [BTum - 1][bt1]         | 1  | 3D | BTum 1.STL (PLA)                                                      | PLA color choice              | na     | na      |
 | 2       | [BTum - 2][bt2]         | 1  | 3D | BTum 2.STL (PLA)                                                      | PLA color choice              | na     | na      |
 | 3       | [BTum - 3][bt3]         | 1  | 3D | BTum 3.STL (PLA)                                                      | PLA color choice              | na     | na      |
-| 4       | [BTum - 4][bt4]         | 1  | 3D | BTum 4.STL (PLA)                                                      | PLA color choice              | na     | na      |
-| 5       | [BTum - 5][bt5]         | 1  | 3D | BTum 5.STL (PLA)                                                      | PLA color choice              | na     | na      |
-| 6       | [BTum - ST Adapter][bta]         | 1  | 3D | BTum - ST Adapter.STL (PLA)                                  | PLA color choice              | na     | na      |
+| 4       | [BTum - 4][bt4]         | 1  | 3D | BTum 4.STL (TPU)                                                      | PLA color choice              | na     | na      |
+| 5       | [BTum - 5][bt5]         | 1  | 3D | BTum 5.STL (TPU)    or purchase silicone version from Pet Tutor       | TPU or silcone(buy)              | na     | na      |
+| 6       | [BTum - ST Adapter][bta]         | 1  | 3D | BTum - ST Adapter.STL (PLA) optional Small Treat Adapter     | PLA color choice              | na     | na      |
 
 ---
 
