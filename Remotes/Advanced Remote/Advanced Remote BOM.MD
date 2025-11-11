@@ -27,7 +27,7 @@ is useful for those with limited hand mobility. This unit also offers more optio
 
 ---
 
-*Last updated: November 09, 2025*  
+*Last updated: November 10, 2025*  
 
 [Atom]: https://shop.m5stack.com/products/atom-lite-esp32-development-kit?srsltid=AfmBOorpaCo6LaSdYEo0xqwaS0408o4Nq70mW2EWUiq_U3TJ0CaQtvyv  
 [tb]: https://shop.m5stack.com/products/atom-tailbat  
