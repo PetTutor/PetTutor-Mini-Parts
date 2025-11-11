@@ -1,3 +1,8 @@
+# Two versions of the PowerBase: Stepper motor(recommended) and DC Motor(not recommended)
+
+During development a version of the PowerBase using a *DC motor* was developed and tested. That is the version listed below.  However, during testing
+we found the noise from motor scared some dogs. While this version had superior torque the noise was too great. So the new version using the *stepper motor* was decveloped and is now in production. This is provided for anyone that would like to experiement with a different version.
+
 **Click on a part to download:**
 
 - [Base Top v5](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/Base%20top%20V5.stl)
