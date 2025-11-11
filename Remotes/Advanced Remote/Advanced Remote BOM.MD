@@ -6,7 +6,8 @@ is useful for those with limited hand mobility. This unit also offers more optio
 
 ---
 <img width="2550" height="3300" alt="Smart Clicker (1)" src="https://github.com/user-attachments/assets/fd4973a8-5572-441b-acc1-c96ed675669a" />
----
+---  
+
 ## Bill of Materials: Advanced Remote
 
 | Item # | Part Name/link              | Quantity | buy/3D print  | Description / Specs                          | Source / Supplier              | Unit Cost* | Total Cost* |
