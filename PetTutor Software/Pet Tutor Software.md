@@ -4,18 +4,6 @@
 - **Phones:** The apps for Android and iOS provide the phone with the ability to connect to the feeder via BLE and send commands.  In addition the user can use a browser on the phone to send feed commands over the internet from the phone. Using the phone browser does NOT require an app and just uses the browser.
 - **Summary:** The feeder can be controlled via BLE or WiFI or both at the same time. The remotes or phones can be used for BLE connection which is easy to setup but has shorter range. For longer range the WiFi option is a good choice. When using WiFi the feeder is setup with credentials for the local WiFi router(SSID/Password) and user cloud account(ID/Password). Customers who buy the Pet Tutor Mini will get a free cloud account but DIY builders will need to provide their own cloud MQTT broker. Basic functions firmware for the feeder and remote can be downloaded and compiled on the Arduino IDE.
 
-
----
-# Android app  
-This app is not in the Android app store but can be downloaded from the link below.  
-
-Google Drive link to download-> [PetTutor Basic.apk][apk] 
-  
----
-# Firmware for the Pet Tutor Mini feeder    
-
-This link is for an Arduino program to perform basic operation of the feeder.   
-download-> [PTMini_Basic.apk][frm]   
 ---
 | Device | Software download link             | Description | Software Contributor  | Comment |
 |:--------:|:------------------------|:----------:|:-------:|:------------|
@@ -23,9 +11,6 @@ download-> [PTMini_Basic.apk][frm]
 | iOS           | [Apple iOS][ios]           | In Apple Store for fee                           | Kona Currents (Scott Moody) |           |  
 | Feeder        | [Arduino ino][ino]         | Arduino source code (c++)                        | Pet Tutor (Orion)           |           |  
 | Basic Remote  | TBD  | TBD | Pet Tutor (Orion)  |   |  
-
-
-
 
 ---
 [apk]: https://drive.google.com/file/d/19x49JGUla84gN7AuETKdELnhjsQVB5Vx/view?usp=sharing
