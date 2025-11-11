@@ -5,12 +5,13 @@
 - **Summary:** The feeder can be controlled via BLE or WiFI or both at the same time. The remotes or phones can be used for BLE connection which is easy to setup but has shorter range. For longer range the WiFi option is a good choice. When using WiFi the feeder is setup with credentials for the local WiFi router(SSID/Password) and user cloud account(ID/Password). Customers who buy the Pet Tutor Mini will get a free cloud account but DIY builders will need to provide their own cloud MQTT broker. Basic functions firmware for the feeder and remote can be downloaded and compiled on the Arduino IDE.
 
 ---
-| Device | Software download link             | Description | Software Contributor  | Comment |
-|:--------:|:------------------------|:----------:|:-------:|:------------|
-| Android       | [Android APK][apk]   | Not in app store. download and manually install  | Pet Tutor (Orion Patrie)           |           |   
-| iOS           | [Apple iOS][ios]     | In Apple Store for fee                           | Kona Currents,LLC (Scott Moody) |   Several advanced features to monitor MQTT traffic, Semantic Marker developer        |  
-| Feeder        | [Arduino ino][ino]   | Arduino source code (c++)                        | Pet Tutor (Orion Patrie)           |           |  
-| Basic Remote  | TBD  | TBD | Pet Tutor (Orion Patrie)  |   |  
+| Device | Software download link            | binary/source | Description | Software Contributor  | Comment |
+|:--------:|:------------------------|:--------:|:----------:|:-------:|:------------|
+| Android       | [Android APK][apk]   | binary| Not in app store. download and manually install  | Pet Tutor (Orion Patrie)           |           |   
+| iOS           | [Apple iOS][ios]     | binary| In Apple Store for fee                           | Kona Currents,LLC (Scott Moody) |   Several advanced features to monitor MQTT traffic, Semantic Marker developer        |  
+| Feeder        | [Arduino ino][ino]   | source | Arduino source code (c++)                        | Pet Tutor (Orion Patrie)           |           |  
+| Basic Remote  | TBD  | TBD | source | Pet Tutor (Orion Patrie)  |     |  
+
 ---
 *Updated 11 NOV 2025*
 ---
