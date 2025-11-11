@@ -17,6 +17,18 @@ Google Drive link to download-> [PetTutor Basic.apk][apk]
 This link is for an Arduino program to perform basic operation of the feeder.   
 download-> [PTMini_Basic.apk][frm]   
 ---
+| Device | Software download link             | Description | Software Contributor  | Comment |
+|:--------:|:------------------------|:----------:|:-------:|:------------|
+| Android       | [Android APK][apk]         | Not in app store. download and manually install  | Pet Tutor (Orion)           |           |   
+| iOS           | [Apple iOS][ios]           | In Apple Store for fee                           | Kona Currents (Scott Moody) |           |  
+| Feeder        | [Arduino ino][ino]         | Arduino source code (c++)                        | Pet Tutor (Orion)           |           |  
+| Basic Remote  | TBD  | TBD | Pet Tutor (Orion)  |   |  
 
+
+
+
+---
 [apk]: https://drive.google.com/file/d/19x49JGUla84gN7AuETKdELnhjsQVB5Vx/view?usp=sharing
 [frm]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PetTutor%20Basic%20Software/PTMini_Basic.ino
+[ios]: https://apps.apple.com/us/app/semanticmarker/id6443887496  
+[ino]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PetTutor%20Software/PTMini_Basic.ino
