@@ -5,8 +5,11 @@
 2. Subassembly [Canister][ca] This container holds the food and screws onto the Dispense Mechanism to make the Food Assembly.
 3. Subassembly [Dispense Mechanism][dm]  This is the dispenser mechanism which separates out the kibble and drops it out of the feeder
 
+---  
 
----
+
+---  
+
 
 ## Bill of Materials Pet Tutor Mini PowerBase Assembly (*est costs in 2025)
 
