@@ -1,5 +1,6 @@
-# Older inactive version of the Pet Tutor PowerBase  
-*This version of the PowerBase is no longer made and uses a proprietary electronics board that is no longer made.
+# Older obsolete version of the Pet Tutor PowerBase  
+*This version of the PowerBase is no longer made and uses a proprietary electronics board that is no longer made. This obsolete version used an EDP32 single board
+processor and a custom interface board.
 This is provided for information only.* 
 
 
