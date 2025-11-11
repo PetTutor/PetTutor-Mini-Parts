@@ -10,6 +10,7 @@
 | Android       | [Android APK][apk]   | binary| Not in app store. download and manually install  | Pet Tutor (Orion Patrie)           |           |   
 | iOS           | [Apple iOS][ios]     | binary| In Apple Store for fee                           | Kona Currents,LLC (Scott Moody) |   Several advanced features to monitor MQTT traffic, Semantic Marker developer        |  
 | Feeder        | [Arduino ino][ino]   | source | Arduino source code (c++)                        | Pet Tutor (Orion Patrie)           |           |  
+| Feeder        | [Arduino ino][ino]   | source | Arduino source code (c++)                        | Pet Tutor (Orion Patrie)           |           |  
 | Basic Remote  | TBD  | TBD | source | Pet Tutor (Orion Patrie)  |     |  
 
 ---
