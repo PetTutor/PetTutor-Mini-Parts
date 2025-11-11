@@ -7,11 +7,12 @@
 ---
 | Device | Software download link             | Description | Software Contributor  | Comment |
 |:--------:|:------------------------|:----------:|:-------:|:------------|
-| Android       | [Android APK][apk]         | Not in app store. download and manually install  | Pet Tutor (Orion)           |           |   
-| iOS           | [Apple iOS][ios]           | In Apple Store for fee                           | Kona Currents (Scott Moody) |           |  
-| Feeder        | [Arduino ino][ino]         | Arduino source code (c++)                        | Pet Tutor (Orion)           |           |  
+| Android       | [Android APK][apk]   | Not in app store. download and manually install  | Pet Tutor (Orion)           |           |   
+| iOS           | [Apple iOS][ios]     | In Apple Store for fee                           | Kona Currents (Scott Moody) |   Several advanced features to monitor MQTT traffic, Semantic Marker developer        |  
+| Feeder        | [Arduino ino][ino]   | Arduino source code (c++)                        | Pet Tutor (Orion)           |           |  
 | Basic Remote  | TBD  | TBD | Pet Tutor (Orion)  |   |  
-
+---
+*Updated 11 NOV 2025*
 ---
 [apk]: https://drive.google.com/file/d/19x49JGUla84gN7AuETKdELnhjsQVB5Vx/view?usp=sharing
 [frm]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PetTutor%20Basic%20Software/PTMini_Basic.ino
