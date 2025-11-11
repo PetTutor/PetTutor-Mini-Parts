@@ -1,3 +1,8 @@
+# Older inactive version of the Pet Tutor PowerBase  
+*This version of the PowerBase is no longer made and uses a proprietary electronics board that is no longer made.
+This is provided for information only.* 
+
+
 **Click on a part to download:**
 
 - [Base Top](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20ESP32/Base%20top.stl)
