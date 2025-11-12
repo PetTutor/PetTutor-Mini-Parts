@@ -14,7 +14,7 @@ Welcome to the **PetTutor Mini Parts** repository! This repo contains 3D printab
 - ✅ Licensing information for personal and educational use
 
 > ⚠️ Note: This repository does **not** include any proprietary or internal mechanisms protected under patent or intellectual property rights. Please see the [LICENSE](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/LICENSE) section for more info.
-
+<!-- comment out
 ## 🧩 Available Parts
 
 | Part Name             | File Type | Print Notes           | Status   |
@@ -25,7 +25,7 @@ Welcome to the **PetTutor Mini Parts** repository! This repo contains 3D printab
 | [PowerBase Atom](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/PowerBase%20Atom/README.md)       | `.stl`    | PLA 0.2mm layer        | Public   |
 | [Clickers](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Clickers)       | `.stl`    | PLA 0.2mm layer        | Public   |
 
-
+-->
 > Need a specific part? Open an issue or submit a request!
 
 ## 🤝 Contributions
