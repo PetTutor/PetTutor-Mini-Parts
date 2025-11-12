@@ -1,11 +1,29 @@
+# Pet Tutor: Open-Source Wireless Dog Feeder for Training
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![3D Printable](https://img.shields.io/badge/3D%20Printable-Yes-blue.svg)](https://www.thingiverse.com/)
+[![Electronics](https://img.shields.io/badge/Electronics-Arduino%20Compatible-green.svg)](https://www.arduino.cc/)
+
+## Project Overview
+
+**Pet Tutor** is an open-source, wireless dog feeder designed specifically for **positive reinforcement training**. It dispenses small treats remotely via a mobile app or web interface, helping trainers reward behaviors instantly without interrupting sessions. Built with affordable 3D-printed parts and off-the-shelf electronics, it's customizable, hackable, and perfect for dog owners, trainers, or hobbyists.
+
+### Key Features
+- **Wireless Control**: Bluetooth(50 feet) or Wi-Fi connectivity(internet via MQTT broker) for remote treat dispensing.
+- **Modular Design**: Easy-to-print parts.
+- **USB-C power plug for Wall or external battery**: A standard USB-C cable and wall plug or external USB style battery provide power.
+- **Smart Features**: Auto dispense from browser or app.
+- **Open-Source Everything**: Full schematics, code(c++), and files shared under CC BY-SA 4.0 (attribution required; share-alike for derivatives).
+
+> **Note**: While the designs are free to build and modify, commercial versions sold by Smart Animal Training Systems,LLC under the "Pet Tutor" brand include premium support, custom firmware, and quality-tested components—check [Pet Tutor store](https://pettutor.biz) for those.
+
+
 # 🐾 PetTutor Mini Parts
 
 Welcome to the **PetTutor Mini Parts** repository! This repo contains 3D printable files, diagrams, and documentation for parts of the **PetTutor Mini** that are available for public use, repair, or customization.
 
 ## 📦 What's Included
 
-## Other resources and contributors to the open Pet Tutor community  
-- **[Kona Currents](https://github.com/konacurrents/konacurrents)** :Inventor of the Semantic Marker(r) and developer of advanced firmware for the Pet Tutor
 
 ## This Pet Tutor Mini repository currently includes:
 
@@ -37,6 +55,8 @@ We welcome:
 - Requests for additional public-facing parts
 
 Please submit a pull request or open an issue if you’d like to contribute!
+## Other resources and contributors to the open Pet Tutor community  
+- **[Kona Currents](https://github.com/konacurrents/konacurrents)** :Inventor of the Semantic Marker(r) and developer of advanced firmware for the Pet Tutor
 
 ## 📄 License
 
