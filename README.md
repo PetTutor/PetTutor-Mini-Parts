@@ -48,13 +48,14 @@ Welcome to the **PetTutor Mini Parts** repository! This repo contains 3D printab
 > 
 # Modules Available   
 
-| Part Name             | Description | Print Notes           | Status   |
-|----------------------|-----------|------------------------|----------|
-| [Canister][ca]             | Container for food. 1 cup is standard but larger versions are included    |
-| [Dispense Mechanism][dm]            | This part moves the kibble out of the feeder. It fits into the canister module. The brushes can be printed(TPU) or purchased    | 
-| [PowerBase ESP32](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20ESP32/README.md)      | `.stl`    | PLA 0.2mm layer        | Public   |
-| [PowerBase Atom](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/PowerBase%20Atom/README.md)       | `.stl`    | PLA 0.2mm layer        | Public   |
-| [Clickers](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Clickers)       | `.stl`    | PLA 0.2mm layer        | Public   |  
+| Part Name             | Description | Contains sw/3D/electronics |
+|----------------------|-----------|:-------------:|
+| [Canister][ca]             | Container for food. 1 cup is standard but larger versions are included    | 3D |
+| [Dispense Mechanism][dm]   | This part moves the kibble out of the feeder. It fits into the canister module. The brushes can be printed(TPU) or purchased    | 3D |
+| [PetTutor Software][sw]    | ?   | sw |
+| [PowerBase Atom][pba]      | ?       | 3D/Elec   |
+| [PowerBase ESP32][pbe]     | ?       | 3D/Elec   |
+| [Remotes][rm]              | ?  | 3D/Elec   |
 
 ## 🤝 Contributions
 
@@ -133,3 +134,7 @@ Thank you for supporting innovation, repairability, and pet care!
 
 [ca]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Canister  
 [dm]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Dispense%20Mechanism
+[sw]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/PetTutor%20Software  
+[pba]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/PowerBase%20Atom
+[pbe]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/PowerBase%20ESP32
+[rm]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Remotes
