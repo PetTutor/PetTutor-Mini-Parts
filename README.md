@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-**Pet Tutor** is an open-source, wireless dog feeder designed specifically for **positive reinforcement training**. It dispenses small treats remotely via a mobile app or web interface, helping trainers reward behaviors instantly without interrupting sessions. Built with affordable 3D-printed parts and off-the-shelf electronics, it's customizable, hackable, and perfect for dog owners, trainers, or hobbyists.
+**Pet Tutor** is an open-source, wireless dog feeder designed specifically for **positive reinforcement training**. It dispenses small treats remotely via a mobile app or web interface, helping trainers reward behaviors instantly without interrupting sessions. Built with affordable 3D-printed parts and off-the-shelf electronics, it's customizable, hackable, and perfect for dog owners, trainers, or hobbyists. The original Pet Tutor was created by Smart Animal Training Systems, LLC in 2012 and has gone  through several generations with the new one being the Pet Tutor Mini which is the subject of this open-source project. The Pet Tutor Mini is sold as a completed unit; ;however for hobbiests and developers the parts are provided here at no charge.
 
 ### Key Features
 - **Wireless Control**: Bluetooth(50 feet) or Wi-Fi connectivity(internet via MQTT broker) for remote treat dispensing.
@@ -17,13 +17,13 @@
 
 > **Note**: While the designs are free to build and modify, commercial versions sold by Smart Animal Training Systems,LLC under the "Pet Tutor" brand include premium support, custom firmware, and quality-tested components—check [Pet Tutor store](https://pettutor.biz) for those.
 
-
+<!-- remove
 # 🐾 PetTutor Mini Parts
 
 Welcome to the **PetTutor Mini Parts** repository! This repo contains 3D printable files, diagrams, and documentation for parts of the **PetTutor Mini** that are available for public use, repair, or customization.
 
 ## 📦 What's Included
-
+-->
 
 ## This Pet Tutor Mini repository currently includes:
 
@@ -111,7 +111,7 @@ For technical support or feedback, please contact:
 
 📧 **PetTutor@SmartAnimalTraining.com** 
 
-🌐 [www.pettutor.biz](https://smartanimaltraining.com/)
+🌐 [www.pettutor.biz](https://smartanimaltraining.com/)  <-Assembled and tested units available here.
 
 
 
