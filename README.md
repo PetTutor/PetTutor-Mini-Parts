@@ -1,4 +1,4 @@
-# Pet Tutor: Open-Source Wireless Dog Feeder for Training
+# Pet Tutor Mini: Open-Source Wireless Dog Feeder for Training
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![3D Printable](https://img.shields.io/badge/3D%20Printable-Yes-blue.svg)](https://www.thingiverse.com/)
@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-**Pet Tutor** is an open-source, wireless dog feeder designed specifically for **positive reinforcement training**. It dispenses small treats remotely via a mobile app or web interface, helping trainers reward behaviors instantly without interrupting sessions. Built with affordable 3D-printed parts and off-the-shelf electronics, it's customizable, hackable, and perfect for dog owners, trainers, or hobbyists. The original Pet Tutor was created by Smart Animal Training Systems, LLC in 2012 and has gone  through several generations with the new one being the Pet Tutor Mini which is the subject of this open-source project. The Pet Tutor Mini is sold as a completed unit; ;however for hobbiests and developers the parts are provided here at no charge.
+**Pet Tutor Mini** is an open-source, wireless dog feeder designed specifically for **positive reinforcement training**. It dispenses small treats remotely via a mobile app or web interface, helping trainers reward behaviors instantly without interrupting sessions. Built with affordable 3D-printed parts and off-the-shelf electronics, it's customizable, hackable, and perfect for dog owners, trainers, or hobbyists. The original Pet Tutor was created by Smart Animal Training Systems, LLC in 2012 and has gone  through several generations with the new one being the Pet Tutor Mini which is the subject of this open-source project. The Pet Tutor Mini is sold as a completed unit; ;however for hobbiests and developers the parts are provided here at no charge.
 
 ### Key Features
 - **Wireless Control**: Bluetooth(50 feet) or Wi-Fi connectivity(internet via MQTT broker) for remote treat dispensing.
@@ -45,6 +45,16 @@ Welcome to the **PetTutor Mini Parts** repository! This repo contains 3D printab
 
 -->
 > Need a specific part? Open an issue or submit a request!
+> 
+# Modules Available   
+
+| Part Name             | Description | Print Notes           | Status   |
+|----------------------|-----------|------------------------|----------|
+| [Canister][ca]             | Container for food. 1 cup is standard but larger versions are included    |
+| [Dispense Mechanism][dm]            | This part moves the kibble out of the feeder. It fits into the canister module. The brushes can be printed(TPU) or purchased    | 
+| [PowerBase ESP32](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20ESP32/README.md)      | `.stl`    | PLA 0.2mm layer        | Public   |
+| [PowerBase Atom](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/PowerBase%20Atom/README.md)       | `.stl`    | PLA 0.2mm layer        | Public   |
+| [Clickers](https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Clickers)       | `.stl`    | PLA 0.2mm layer        | Public   |  
 
 ## 🤝 Contributions
 
@@ -120,3 +130,6 @@ For technical support or feedback, please contact:
 Thank you for supporting innovation, repairability, and pet care!
 
 🐶🐱 – *The PetTutor Team*
+
+[ca]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Canister  
+[dm]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Dispense%20Mechanism
