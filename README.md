@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-**Pet Tutor Mini** is an open-source, wireless dog feeder designed specifically for **positive reinforcement training**. It dispenses small treats remotely via a mobile app or web interface, helping trainers reward behaviors instantly without interrupting sessions. Built with affordable 3D-printed parts and off-the-shelf electronics, it's customizable, hackable, and perfect for dog owners, trainers, or hobbyists. The original Pet Tutor was created by Smart Animal Training Systems, LLC in 2012 and has gone  through several generations with the new one being the Pet Tutor Mini which is the subject of this open-source project. The Pet Tutor Mini is sold as a completed unit; ;however for hobbiests and developers the parts are provided here at no charge.
+**Pet Tutor Mini** is an open-source, wireless dog feeder designed specifically for **positive reinforcement training**. It dispenses small treats remotely via a mobile app or web interface, helping trainers reward behaviors instantly without interrupting sessions. Built with affordable 3D-printed parts and off-the-shelf electronics, it's customizable, hackable, and perfect for dog owners, trainers, or hobbyists. The original Pet Tutor was created by Smart Animal Training Systems, LLC in 2012 and has gone  through several generations with the new one being the Pet Tutor Mini which is the subject of this open-source project. The Pet Tutor Mini is sold as a completed unit; ;however for hobbiests and developers the parts are provided here at no charge. The Pet Tutor is available for wheelchairs with interfaces for accessibility.
 
 ### Key Features
 - **Wireless Control**: Bluetooth(50 feet) or Wi-Fi connectivity(internet via MQTT broker) for remote treat dispensing.
@@ -52,10 +52,10 @@ Welcome to the **PetTutor Mini Parts** repository! This repo contains 3D printab
 |----------------------|-----------|:-------------:|
 | [Canister][ca]             | Container for food. 1 cup is standard but larger versions are included    | 3D |
 | [Dispense Mechanism][dm]   | This part moves the kibble out of the feeder. It fits into the canister module. The brushes can be printed(TPU) or purchased    | 3D |
-| [PetTutor Software][sw]    | ?   | sw |
-| [PowerBase Atom][pba]      | ?       | 3D/Elec   |
-| [PowerBase ESP32][pbe]     | ?       | 3D/Elec   |
-| [Remotes][rm]              | ?  | 3D/Elec   |
+| [PetTutor Software][sw]    | The software is for the PowerBase, Remotes and mobile apps   | sw |
+| [PowerBase Atom][pba]      | The PowerBase contains the stepper motor, Atom and 3D parts       | 3D/Elec   |
+| [PowerBase ESP32][pbe]     | Inactive version. No longer in use but provided for information       | 3D/Elec   |
+| [Remotes][rm]              | There are two versions of the remote: advanced and basic. The advanced has a larger button for accessibility  | 3D/Elec   |
 
 ## 🤝 Contributions
 
