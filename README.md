@@ -48,7 +48,7 @@ Welcome to the **PetTutor Mini Parts** repository! This repo contains 3D printab
 > 
 # Modules Available   
 
-| Part Name             | Description | Contains sw/3D/electronics |
+| Module Name             | Description | Contains sw/3D/electronics |
 |----------------------|-----------|:-------------:|
 | [Canister][ca]             | Container for food. 1 cup is standard but larger versions are included    | 3D |
 | [Dispense Mechanism][dm]   | This part moves the kibble out of the feeder. It fits into the canister module. The brushes can be printed(TPU) or purchased    | 3D |
