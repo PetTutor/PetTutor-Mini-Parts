@@ -35,7 +35,7 @@ Welcome to the **PetTutor Mini Parts** repository! This repo contains 3D printab
 <!-- comment out
 ## 🧩 Available Parts
 
-| Part Name             | File Type | Print Notes           | Status   |
+| Module Name             | File Type | Print Notes           | Status   |
 |----------------------|-----------|------------------------|----------|
 | [Canister](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Canister/Readme.md)             | `.stl`    | PLA 0.2mm layer        | Public   |
 | [Tumbler](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/Tumbler/Readme.md)             | `.stl`    | Most PLA 0.2mm layer   | Public   |
