@@ -13,7 +13,6 @@
 
 ---  
 
-
 ## Bill of Materials Pet Tutor Mini PowerBase Assembly (*est costs in 2025)
 
 | Item # | Part Name/link              | Quantity | buy/3D print  | Description / Specs                          | Source / Supplier              | Unit Cost* | Total Cost* |
