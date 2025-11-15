@@ -57,7 +57,7 @@
 [2p]: https://www.amazon.com/gp/aw/d/B0CCV3PXFP/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=506ee69713e5ad772f31c7477b954023&hsa_cr_id=0&qid=1760321211&sr=1-1-f02f01d6-adaf-4bef-9a7c-29308eff9043&ref_=sbx__sbtcd2_asin_0_title&pd_rd_w=umEob&content-id=amzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a%3Aamzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_p=e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_r=ETXXGVBPQAQSCBZZXWBG&pd_rd_wg=1hlMW&pd_rd_r=72a2d184-2b7e-40e4-94a4-52785567555c&th=1  
 [s1]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%201.stl  
 [db]: https://www.amazon.com/ELEGOO-28BYJ-48-ULN2003-Stepper-Arduino/dp/B01CP18J4A  
-[mms]: https://www.mcmaster.com/99461a505/  
+[mms]: https://www.mcmaster.com/catalog/131/3432/99461A505 
 [cs]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%202%20Clear.stl  
 [s3]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%203.stl  
 [ts]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/Base%20top%20Stepper.stl  
