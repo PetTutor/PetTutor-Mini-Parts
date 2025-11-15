@@ -1,5 +1,3 @@
----  
-
 ## Pet Tutor Mini:  Basic Remote  
 This remote provides a basic function of connecting to the feeder and provide a simple button to trigger the feeder.  
 
@@ -16,10 +14,12 @@ This remote provides a basic function of connecting to the feeder and provide a 
 | 3       | [Top Case.stl][tc]                            | 1  | 3D  | Top Case                                                      | PLA color choice     | na        | na      |
 | 4       | [Bottom Case.stl][bc]                         | 1  | 3D  | Bottom Case                                                   | PLA color choice     | na        | na      |
 | 5       | [Button.STL][bt]                              | 1  | 3D  | Button                                                        | PLA color choice     | na        | na      |
-| 6       | [Grip][gp]                                    | 1  | 3D  |PTMini Clicker - Grip (TPU).stl                                | TPU                  | na        | na      |
----
+| 6       | [Grip][gp]                                    | 1  | 3D  |PTMini Clicker - Grip (TPU).stl                                | TPU                  | na        | na      |  
 
-## Build Instructions:  
+---  
+
+## Build Instructions  
+
 - All stl files are printed in PLA (Unless otherwise stated) at .2 Layer Height and 15% infill.
 
 [Atom]: https://shop.m5stack.com/products/atom-lite-esp32-development-kit?srsltid=AfmBOorpaCo6LaSdYEo0xqwaS0408o4Nq70mW2EWUiq_U3TJ0CaQtvyv  
