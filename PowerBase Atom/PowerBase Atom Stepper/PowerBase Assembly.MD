@@ -40,7 +40,7 @@
 
 ---
 
-*Last updated: November 10, 2025*   
+*Last updated: November 14, 2025*   
 
 <!-- The links below will not show up in the render but are used as shortcuts in the code -->
 [Atom]: https://shop.m5stack.com/products/atom-lite-esp32-development-kit?srsltid=AfmBOorpaCo6LaSdYEo0xqwaS0408o4Nq70mW2EWUiq_U3TJ0CaQtvyv  
