@@ -43,20 +43,20 @@
 *Last updated: November 14, 2025*   
 
 <!-- The links below will not show up in the render but are used as shortcuts in the code -->
-[Atom]: https://shop.m5stack.com/products/atom-lite-esp32-development-kit?srsltid=AfmBOorpaCo6LaSdYEo0xqwaS0408o4Nq70mW2EWUiq_U3TJ0CaQtvyv  
-[buz]: https://www.amazon.com/QMseller-Connector-Active-Plastic-Electronic/dp/B07VX87W5Q/ref=sr_1_2_sspa?crid=3PGXR9NJSZ1ML&dib=eyJ2IjoiMSJ9.mngVaeKPfaSjJypt80Rt_Cs2bHcnr88bma-fT_LDqLuZbQqBchicAbzb8fgQ0MIr6aQ1DqjD2rtZ9uH9NXTk5FZjlpjGM5pPuBT0tuTu8ca5d3yGqNhCLzCNc_PiyDFlZZON_daGggbWeN2LBHsiZBaH4pCZC35k4x3gP4mTOUE6cdO6K_9d3QEwIQQaURuixIQqPflwf333RoFkBTb92wWWdbipBEAD1nWqr_rWzBiyrOB4QttO7qMH0nmIBG7fwFZyuQ7UpawxXzOCNDzNZaK3Jf5MVfvq9KkOg6Oygv8.rZq3GyGFamQZGUpWsNWpN5t4dB9dQnoA65l1gw1p7DM&dib_tag=se&keywords=buzzer&qid=1750974701&sprefix=buzzer%2Caps%2C153&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1  
-[scr]: https://knappconnectors.com/mod-eez-system/shoulder-screws/mod-eez-2155-shoulder-screw-5mm-x-5-8-inch/  
-[4p]: https://www.amazon.com/gp/aw/d/B0CCV3NJ8Q/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=506ee69713e5ad772f31c7477b954023&hsa_cr_id=0&qid=1760321211&sr=1-1-f02f01d6-adaf-4bef-9a7c-29308eff9043&ref_=sbx__sbtcd2_asin_0_title&pd_rd_w=umEob&content-id=amzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a%3Aamzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_p=e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_r=ETXXGVBPQAQSCBZZXWBG&pd_rd_wg=1hlMW&pd_rd_r=72a2d184-2b7e-40e4-94a4-52785567555c&th=1  
-[2p]: https://www.amazon.com/gp/aw/d/B0CCV3PXFP/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=506ee69713e5ad772f31c7477b954023&hsa_cr_id=0&qid=1760321211&sr=1-1-f02f01d6-adaf-4bef-9a7c-29308eff9043&ref_=sbx__sbtcd2_asin_0_title&pd_rd_w=umEob&content-id=amzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a%3Aamzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_p=e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_r=ETXXGVBPQAQSCBZZXWBG&pd_rd_wg=1hlMW&pd_rd_r=72a2d184-2b7e-40e4-94a4-52785567555c&th=1  
-[s1]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%201.stl  
-[db]: https://www.amazon.com/ELEGOO-28BYJ-48-ULN2003-Stepper-Arduino/dp/B01CP18J4A  
-[mms]: https://www.mcmaster.com/catalog/131/3432/99461A505 
-[cs]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%202%20Clear.stl  
-[s3]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%203.stl  
-[ts]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/Base%20top%20Stepper.stl  
-[mp]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/28BY-J%20Motor%20Pin.stl  
+[Atom]: https://shop.m5stack.com/products/atom-lite-esp32-development-kit?srsltid=AfmBOorpaCo6LaSdYEo0xqwaS0408o4Nq70mW2EWUiq_U3TJ0CaQtvyv
+[buz]: https://www.amazon.com/QMseller-Connector-Active-Plastic-Electronic/dp/B07VX87W5Q/ref=sr_1_2_sspa?crid=3PGXR9NJSZ1ML&dib=eyJ2IjoiMSJ9.mngVaeKPfaSjJypt80Rt_Cs2bHcnr88bma-fT_LDqLuZbQqBchicAbzb8fgQ0MIr6aQ1DqjD2rtZ9uH9NXTk5FZjlpjGM5pPuBT0tuTu8ca5d3yGqNhCLzCNc_PiyDFlZZON_daGggbWeN2LBHsiZBaH4pCZC35k4x3gP4mTOUE6cdO6K_9d3QEwIQQaURuixIQqPflwf333RoFkBTb92wWWdbipBEAD1nWqr_rWzBiyrOB4QttO7qMH0nmIBG7fwFZyuQ7UpawxXzOCNDzNZaK3Jf5MVfvq9KkOg6Oygv8.rZq3GyGFamQZGUpWsNWpN5t4dB9dQnoA65l1gw1p7DM&dib_tag=se&keywords=buzzer&qid=1750974701&sprefix=buzzer%2Caps%2C153&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+[scr]: https://knappconnectors.com/mod-eez-system/shoulder-screws/mod-eez-2155-shoulder-screw-5mm-x-5-8-inch/
+[4p]: https://www.amazon.com/gp/aw/d/B0CCV3NJ8Q/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=506ee69713e5ad772f31c7477b954023&hsa_cr_id=0&qid=1760321211&sr=1-1-f02f01d6-adaf-4bef-9a7c-29308eff9043&ref_=sbx__sbtcd2_asin_0_title&pd_rd_w=umEob&content-id=amzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a%3Aamzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_p=e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_r=ETXXGVBPQAQSCBZZXWBG&pd_rd_wg=1hlMW&pd_rd_r=72a2d184-2b7e-40e4-94a4-52785567555c&th=1
+[2p]: https://www.amazon.com/gp/aw/d/B0CCV3PXFP/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=506ee69713e5ad772f31c7477b954023&hsa_cr_id=0&qid=1760321211&sr=1-1-f02f01d6-adaf-4bef-9a7c-29308eff9043&ref_=sbx__sbtcd2_asin_0_title&pd_rd_w=umEob&content-id=amzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a%3Aamzn1.sym.e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_p=e2c9099f-6964-4dbf-9ce9-8bc2c1a8ec1a&pf_rd_r=ETXXGVBPQAQSCBZZXWBG&pd_rd_wg=1hlMW&pd_rd_r=72a2d184-2b7e-40e4-94a4-52785567555c&th=1
+[s1]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%201.stl
+[db]: https://www.amazon.com/ELEGOO-28BYJ-48-ULN2003-Stepper-Arduino/dp/B01CP18J4A
+[mms]: https://www.mcmaster.com/catalog/131/3432/99461A505
+[cs]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%202%20Clear.stl
+[s3]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/BaseV5%20Stepper%20-%203.stl
+[ts]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/Base%20top%20Stepper.stl
+[mp]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/28BY-J%20Motor%20Pin.stl
 [crs]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/Centering%20ring%20Stepper.stl
-[dm]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Dispense%20Mechanism    
+[dm]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Dispense%20Mechanism
 [cn]: https://coex3d.com/products/natural-pla-175mm-1kg
 [tool]: https://www.amazon.com/Taiss-Ratcheting-Connector-Crimping-Terminal/dp/B0B11RLGDZ?th=1
 [ca]: https://github.com/PetTutor/PetTutor-Mini-Parts/tree/main/Canister
