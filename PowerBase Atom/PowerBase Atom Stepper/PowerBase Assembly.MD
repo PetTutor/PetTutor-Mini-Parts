@@ -43,9 +43,6 @@
 *Last updated: November 10, 2025*   
 
 <!-- The links below will not show up in the render but are used as shortcuts in the code -->
-
-
-
 [Atom]: https://shop.m5stack.com/products/atom-lite-esp32-development-kit?srsltid=AfmBOorpaCo6LaSdYEo0xqwaS0408o4Nq70mW2EWUiq_U3TJ0CaQtvyv  
 [buz]: https://www.amazon.com/QMseller-Connector-Active-Plastic-Electronic/dp/B07VX87W5Q/ref=sr_1_2_sspa?crid=3PGXR9NJSZ1ML&dib=eyJ2IjoiMSJ9.mngVaeKPfaSjJypt80Rt_Cs2bHcnr88bma-fT_LDqLuZbQqBchicAbzb8fgQ0MIr6aQ1DqjD2rtZ9uH9NXTk5FZjlpjGM5pPuBT0tuTu8ca5d3yGqNhCLzCNc_PiyDFlZZON_daGggbWeN2LBHsiZBaH4pCZC35k4x3gP4mTOUE6cdO6K_9d3QEwIQQaURuixIQqPflwf333RoFkBTb92wWWdbipBEAD1nWqr_rWzBiyrOB4QttO7qMH0nmIBG7fwFZyuQ7UpawxXzOCNDzNZaK3Jf5MVfvq9KkOg6Oygv8.rZq3GyGFamQZGUpWsNWpN5t4dB9dQnoA65l1gw1p7DM&dib_tag=se&keywords=buzzer&qid=1750974701&sprefix=buzzer%2Caps%2C153&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1  
 [scr]: https://knappconnectors.com/mod-eez-system/shoulder-screws/mod-eez-2155-shoulder-screw-5mm-x-5-8-inch/  
