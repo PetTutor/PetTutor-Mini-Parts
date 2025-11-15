@@ -37,7 +37,6 @@
 - All 3D stl files are printed in PLA at .2 Layer Height and 15% infill.
 - Cables connect ATOM to stepper motor driver board(2 pin & 4 pin).
 - *Add buzzer connector*: 2 wires from buzzer require adding Dupont 2-pin connector. [Kit with tool and connector][tool]
-- [Wiring and assembly diagrams](https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PowerBase%20Atom/PowerBase%20Atom%20Stepper/README.md)
 - The motor pin is glued(ex. silicon glue) on the motor shaft. Note: height is critical along the shaft so mount motor and use the dispense canister assembly to push the pin down on shaft with glue
 - Advanced firmware option: This has capabilites to allow the Pet Tutor Mini to connect to both WiFi and Bluetooth. It also can run other addons via the Groove connector.
 - In addition to the feeder electronics module the dispenser is required and attached to the module. The food assembly is built from: [Canister][ca] and [Dispense Mechanism][dm] The Dispense Mechanism subassembly fits inside the Canister subassembly and this food assembly twists onto the PowerBase assembly.
