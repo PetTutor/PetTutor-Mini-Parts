@@ -2,7 +2,7 @@
 # Exploded view of Dispense Mechanism (with PowerBase Assembly)  
 
 
-![image](https://github.com/user-attachments/assets/00bb458f-0048-4d7e-8fcd-53942f160e08)
+![BTum Parts](https://github.com/user-attachments/assets/fc51da03-7264-48b2-b839-19a0472067b9)
 
 ---
 
