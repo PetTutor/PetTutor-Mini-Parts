@@ -13,7 +13,7 @@
 | iOS           | [Apple iOS][ios]     | binary| In Apple Store for fee                           | Kona Currents,LLC (Scott Moody) |   Several advanced features to monitor MQTT traffic, Semantic Marker developer        |  
 | Feeder        | [Arduino ino][ino]   | source | Arduino source code (c++)                        | Pet Tutor (Orion Patrie)           |    Basic firmware       |  
 | Feeder        | [Advanced firmware][kc]   | source | Arduino source code (c++)                        | [Kona Currents,LLC (Scott Moody)][kc]           |    Advanced firmware       |  
-| Basic Remote  | TBD  | TBD | source | Pet Tutor (Orion Patrie)  |     |  
+| Basic Remote  | [Basic Remote][frmRemote]  | source | Basic remote Arduino C++  | Pet Tutor (Orion Patrie)  |     |  
 
 ---
 
@@ -25,3 +25,4 @@
 [ios]: https://apps.apple.com/us/app/semanticmarker/id6443887496  
 [ino]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PetTutor%20Software/PTMini_Basic.ino
 [kc]: https://github.com/konacurrents/konacurrents
+[frmRemote]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PetTutor%20Software/PTClicker.ino
