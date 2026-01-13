@@ -65,10 +65,10 @@ bool connectToFeeder() {
 
   BLEScan* pScan = BLEDevice::getScan();
   pScan->setActiveScan(true);
-  BLEScanResults results = pScan->start(5);
+  BLEScanResults* results = pScan->start(5);
 
-  for (int i = 0; i < results.getCount(); i++) {
-    BLEAdvertisedDevice device = results.getDevice(i);
+  for (int i = 0; i < results->getCount(); i++) {
+    BLEAdvertisedDevice device = results->getDevice(i);
     if (device.haveServiceUUID() &&
         device.isAdvertisingService(BLEUUID(SERVICE_UUID))) {
 
