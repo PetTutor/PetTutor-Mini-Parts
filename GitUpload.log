@@ -63,3 +63,6 @@ Changes not staged for commit:
 	modified:   GitUpload.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+warning: in the working copy of 'GitUpload.log', LF will be replaced by CRLF the next time Git touches it
+[main e72cea0] Changes Made
+ 1 file changed, 16 insertions(+)
