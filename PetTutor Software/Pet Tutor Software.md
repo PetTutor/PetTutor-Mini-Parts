@@ -24,5 +24,5 @@
 [frm]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PetTutor%20Basic%20Software/PTMini_Basic.ino
 [ios]: https://apps.apple.com/us/app/semanticmarker/id6443887496  
 [ino]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PetTutor%20Software/PTMini_Basic.ino
-[kc]: https://github.com/konacurrents/konacurrents
+[kc]: 
 [frmRemote]: https://github.com/PetTutor/PetTutor-Mini-Parts/blob/main/PetTutor%20Software/PTClicker.ino
